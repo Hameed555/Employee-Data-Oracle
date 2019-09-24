@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CopyComplete
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\USER\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
